@@ -33,3 +33,10 @@ CustomerID 	CustomerName 	ContactName 	Address 	City 	PostalCode 	Country
 
 
 ---
+
+
+## CODING CHALLENGE 2
+
+- Create new row of information - leave the column postal code empty 
+- Read and check the values of the new information.
+- Update that empty postal code column.
